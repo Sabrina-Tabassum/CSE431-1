@@ -4,7 +4,7 @@ https://www.overleaf.com/read/qqggsscbggwf
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide :
 https://docs.google.com/presentation/.....
 
 Project title:
